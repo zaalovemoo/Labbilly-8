@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/labbilly-8/static/css/main.28b3815d.chunk.css",
+    "main.js": "/labbilly-8/static/js/main.cd1e25e8.chunk.js",
+    "main.js.map": "/labbilly-8/static/js/main.cd1e25e8.chunk.js.map",
+    "runtime-main.js": "/labbilly-8/static/js/runtime-main.e919ef52.js",
+    "runtime-main.js.map": "/labbilly-8/static/js/runtime-main.e919ef52.js.map",
+    "static/js/2.c7defb5e.chunk.js": "/labbilly-8/static/js/2.c7defb5e.chunk.js",
+    "static/js/2.c7defb5e.chunk.js.map": "/labbilly-8/static/js/2.c7defb5e.chunk.js.map",
+    "index.html": "/labbilly-8/index.html",
+    "precache-manifest.ed3d0bdc82035cb86575f2829f4b058e.js": "/labbilly-8/precache-manifest.ed3d0bdc82035cb86575f2829f4b058e.js",
+    "service-worker.js": "/labbilly-8/service-worker.js",
+    "static/css/main.28b3815d.chunk.css.map": "/labbilly-8/static/css/main.28b3815d.chunk.css.map",
+    "static/js/2.c7defb5e.chunk.js.LICENSE.txt": "/labbilly-8/static/js/2.c7defb5e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e919ef52.js",
+    "static/js/2.c7defb5e.chunk.js",
+    "static/css/main.28b3815d.chunk.css",
+    "static/js/main.cd1e25e8.chunk.js"
+  ]
+}
